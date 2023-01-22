@@ -1,0 +1,34 @@
+body {
+  background-image: linear-gradient(
+    to top,
+    rgb(124, 169, 188) 0%,
+    rgb(201, 207, 209) 100%
+  );
+}
+.container {
+  margin: 100px;
+}
+h1,
+h2 {
+  font-family: "Playfair Display", serif;
+
+  font-family: "PT Mono", monospace;
+  font-weight: bold;
+  text-align: left;
+  padding: 20px;
+  border: 1px solid;
+}
+h1 {
+  margin-bottom: 20px;
+}
+
+.col {
+  font-family: "Roboto", sans-serif;
+}
+form {
+  margin: 20px 0;
+}
+h5 {
+  font-weight: bold;
+  font-size: 30px;
+}
